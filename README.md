@@ -30,4 +30,4 @@ Licença
 Este projeto é licenciado sob a Licença MIT - consulte o arquivo LICENCA.md para obter detalhes.
 Contato
 
-Para dúvidas, sugestões ou mais informações sobre o projeto, entre em contato conosco em marcos_anaka@hotmail.com.
+Para dúvidas, sugestões ou mais informações sobre o projeto, entre em contato conosco em seu-email@provedor.com.
