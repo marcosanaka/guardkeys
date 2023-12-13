@@ -1,4 +1,7 @@
 # guardkeys
+
+**PROJETO EM ANDAMENTO**
+
 Sistema de Controle de Empréstimo de Chaves para Empresas de Telecomunicações
 Visão Geral
 
@@ -30,4 +33,4 @@ Licença
 Este projeto é licenciado sob a Licença MIT - consulte o arquivo LICENCA.md para obter detalhes.
 Contato
 
-Para dúvidas, sugestões ou mais informações sobre o projeto, entre em contato conosco em seu-email@provedor.com.
+Para dúvidas, sugestões ou mais informações sobre o projeto, entre em contato conosco em marcos_anaka@hotmail.com.
